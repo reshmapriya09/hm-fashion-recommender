@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 
 st.set_page_config(
@@ -86,4 +86,4 @@ st.markdown(
     "<center><b>© 2026 R.Reshmapriya | H&M Personalized Fashion Recommendation System</b></center>",
     unsafe_allow_html=True
 )
-```
+
