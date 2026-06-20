@@ -40,13 +40,13 @@ st.subheader("📈 Model Evaluation Results")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.metric("Precision@10", "0.0820")
+    st.metric("Precision@10", "8.20%")
 
 with col2:
-    st.metric("Recall@10", "0.2487")
+   st.metric("Recall@10", "24.87%")
 
 with col3:
-    st.metric("NDCG@10", "0.1790")
+    st.metric("NDCG@10", "17.90%")
 
 st.markdown("""
 ### 📌 Model Performance Interpretation
