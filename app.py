@@ -76,6 +76,11 @@ st.subheader("🚀 Deployment Status")
 
 st.success("Application Successfully Deployed")
 
+st.subheader("🛍️ Live Recommendation Demo")
+
+st.markdown(
+    "[Open Recommendation System]( https://74a6b809f6d8dc0eae.gradio.live)"
+)
 st.info(
     "The recommendation engine was developed using Neural Collaborative Filtering (NCF) "
     "and trained on the H&M Fashion Recommendation Dataset."
