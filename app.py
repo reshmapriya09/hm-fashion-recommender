@@ -80,7 +80,7 @@ st.subheader("🛍️ Live Fashion Recommendation Demo")
 
 st.link_button(
     "Open Recommendation System",
-    "https://0e1ab3ce76c75a9169.gradio.live"
+    "https://b2f32f5899a81ba6f3.gradio.live"
 )
 
 st.info(
